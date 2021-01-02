@@ -10,5 +10,7 @@ A repository of AI tools and insights for ordinary citizens to explore the envir
 ---
 **Collaborate**
 contact me: _gerardocatangui@gmail.com_
+
 connect at linkedin: _linkedin.com/In/gerardocatangui_
+
 more about me: _gerardocatangui.medium.com_
